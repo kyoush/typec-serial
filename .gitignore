@@ -2,3 +2,4 @@ typec-serial-backups/
 *.lck
 *cache
 report.txt
+*Zone.Identifier
